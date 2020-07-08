@@ -12,7 +12,7 @@ servers:
 tags:
 - name: TopUps
   description: |
-    ekbdwadas,mdnaslknda jhbkmbj The TopUps API allows a party to fund an account that has been provisioned on the 10x platform, using a new or previously saved debit card.
+    still available not available  3rd change raiyn The TopUps API allows a party to fund an account that has been provisioned on the 10x platform, using a new or previously saved debit card.
     Using the POST operation on /v1/topUps to fund an account there are two available methods for funding an account via TopUps.
 - name: Payments
   description: |
